@@ -1,6 +1,6 @@
 {
   "name": "node-es6-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-plugin-transform-runtime": "*",
-    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-node5": "^10.6.0",
     "babel-preset-stage-2": "^6.5.0",
     "babel-register": "^6.5.2"
   }
